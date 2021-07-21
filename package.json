@@ -14,7 +14,7 @@
     "commit-msg": "echo '123'"
   },
   "lint-staged": {
-    "*.{ts,vue}": "eslint --fix",
+    "*.{js,ts,vue}": "eslint --fix",
     "*": "prettier -w -u"
   },
   "dependencies": {
