@@ -11,6 +11,7 @@
     "test": "yarn test-unit && yarn test-e2e-ci"
   },
   "gitHooks": {
+    "pre-commit": "lint-staged",
     "commit-msg": "node scripts/verifyCommit.js"
   },
   "lint-staged": {
