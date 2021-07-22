@@ -22,7 +22,7 @@
     "ts-jest": "26.5.1",
     "vue": "^3.0.5",
     "vue-router": "^4.0.10",
-    "vuex": "^4.0.2"
+    "vuex": "4.0"
   },
   "devDependencies": {
     "@babel/preset-env": "^7.14.7",
