@@ -2,7 +2,7 @@
   <div>foo</div>
 </template>
 
-<script>
+<script lang="ts">
 export default {};
 </script>
 
